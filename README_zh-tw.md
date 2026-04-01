@@ -38,7 +38,7 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 
 ### 2025 Maid by Rabbit [![快速連結 - 日文](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2025/gochiusa.com/af/index.html)
 
-### 2026 「Magical Order Rabbit」[![快速連結 - 日文](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2026/gochiusa.com/af/index.html)
+### 2026 Magical Order Rabbit [![快速連結 - 日文](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2026/gochiusa.com/af/index.html)
 
 ---
 ## 更新日誌(?)：
