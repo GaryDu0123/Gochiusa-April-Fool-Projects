@@ -72,7 +72,7 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 - Uploaded 2025 April Fool's Project website.
 #### 2026/04/01
 - Uploaded 2026 April Fool's Project website. (Thanks for [Bertani545's PR](https://github.com/KalinLai-void/Gochiusa-April-Fool-Projects/pull/3))
-- Added [Music Player Page]((https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/Resources/2026)) for 2026 event.
+- Added [Music Player Page](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/Resources/2026) for 2026 event.
   - Because this year have character music after game clear.
 
 ---
