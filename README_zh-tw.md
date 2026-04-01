@@ -38,6 +38,8 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 
 ### 2025 Maid by Rabbit [![快速連結 - 日文](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2025/gochiusa.com/af/index.html)
 
+### 2026 「Magical Order Rabbit」[![快速連結 - 日文](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2026/gochiusa.com/af/index.html)
+
 ---
 ## 更新日誌(?)：
 #### 2020/04/23
@@ -62,6 +64,8 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 - 新增 2022、2024 英文版網頁 (翻譯 from [Gochi_AI](https://github.com/gochiAI))。
 #### 2025/04/01
 - 更新 2025 年的愚人節企劃網站。
+#### 2026/04/01
+- 更新 2026 年的愚人節企劃網站（感謝 [Bertani545 的 PR](https://github.com/KalinLai-void/Gochiusa-April-Fool-Projects/pull/3)）。
 
 ---
 ## 翻譯志願徵求（繁中or英文都可）
