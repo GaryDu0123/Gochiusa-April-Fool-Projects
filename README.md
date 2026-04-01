@@ -44,7 +44,7 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 
 ### 2025 Maid by Rabbit [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2025/gochiusa.com/af/index.html)
 
-### 2026 「Magical Order Rabbit」[![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2026/gochiusa.com/af/index.html)
+### 2026 Magical Order Rabbit [![Link - JP](https://img.shields.io/badge/Link-JP-blue)](https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/gochiusa2026/gochiusa.com/af/index.html)
 
 ---
 ## Update Log(?):
@@ -72,6 +72,8 @@ https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/<br>
 - Uploaded 2025 April Fool's Project website.
 #### 2026/04/01
 - Uploaded 2026 April Fool's Project website. (Thanks for [Bertani545's PR](https://github.com/KalinLai-void/Gochiusa-April-Fool-Projects/pull/3))
+- Added [Music Player Page]((https://kalinlai-void.github.io/Gochiusa-April-Fool-Projects/Resources/2026)) for 2026 event.
+  - Because this year have character music after game clear.
 
 ---
 ## Seeking translation volunteer (zh-TW/EN)
